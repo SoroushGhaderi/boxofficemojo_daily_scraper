@@ -13,3 +13,4 @@ When you run the code the program recieve from you 6 dates that is contains:
 
 Then a folder that name is **Dataset** going to create and dataset of every day domestic gross will store in that folder. Every dataset has name of the day and formated **.csv**
 for example first month of 2000 is:
+[](https://github.com/SoroushGhaderi/boxofficemojo_daily_scraper/blob/master/screenshot/January%202000.png)
