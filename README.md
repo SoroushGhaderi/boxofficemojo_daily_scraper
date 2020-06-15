@@ -15,3 +15,7 @@ Then a folder that name is **Dataset** going to create and dataset of every day 
 for example first month of 2000 is:
 
 ![](https://github.com/SoroushGhaderi/boxofficemojo_daily_scraper/blob/master/screenshot/January%202000.png)
+
+And every dataset is like next picture.
+
+![](https://github.com/SoroushGhaderi/boxofficemojo_daily_scraper/blob/master/screenshot/Sample%20dataset.png)
