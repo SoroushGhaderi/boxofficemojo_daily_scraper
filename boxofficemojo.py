@@ -16,13 +16,15 @@ def create_range_of_time(start_date, end_date, days= 1):
         date += detla
     return list_of_dates
 
-year_start = 2000
-month_start= 1
-day_start = 1
+# Start Date
+year_start = int(input("Please input your year of start date: "))
+month_start = int(input("Please input your month of start date: "))
+day_start = int(input("Please input your day of start date: "))
 
-year_end = 2000
-month_end = 2
-day_end= 1
+# End Date
+year_end = int(input("Please input your year of end date: "))
+month_end = int(input("Please input your month of end date: "))
+day_end = int(input("Please input your day of end date: "))
 
 start_date = datetime.date(year_start, month_start, day_start)
 end_date = datetime.date(year_end, month_end, day_end)
